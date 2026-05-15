@@ -81,7 +81,9 @@ Tall man, 6'4", large natural frame with physical authority that has nothing to 
 **Origin:** Norwegian mother (Astrid, professor of computational linguistics at ETH Zurich, deceased five years ago — cancer). Swiss-German father (Christoph, retired civil engineer, lives in Bern). Raised in Zurich, summers with her grandmother in Bergen. Speaks German, English, Norwegian, French, and reads enough Italian to be dangerous.
 **Work:** PhD in applied cryptography from **ETH Zurich.** Principal researcher at a Zurich-based security firm, with academic affiliations. Speaks at Black Hat, DEF CON, RSA, and the security tracks at Microsoft Ignite, KubeCon, and Experts Live EU. **Not a Microsoft MVP** — the academic outsider whose research keeps putting her in the same rooms as Hal and the crew.
 
-**Personality:** Brilliant, sharp-tongued, gets visibly impatient with people who can't keep up. Bad at small talk. Luminous when she's talking about her work. Sarcastic in the way that only really lonely smart people are. Has a laugh she's almost embarrassed by.
+**Personality:** Sweet, nerdy, humble, brilliant in a way she's almost embarrassed by. Luminous when she's talking about her work. Bad at small talk but kind to strangers. Has a laugh she's almost embarrassed by. Accidentally flirtatious when she's not paying attention to herself — which is most of the time. Has never been seriously in love. Does not know how beautiful she is, and the people who try to tell her get gently waved off.
+
+The sharpness comes out only when someone condescends to her, talks over her, or pulls her out of a problem she was deep in. When it comes out it is precise and devastating and over in a sentence. Sarcasm stays — present, but quieter than her warmth.
 
 **The dream.** She has had it her entire life. A man's face she does not recognize. A bonfire on a strand. Her own voice saying *find me.*
 
@@ -89,9 +91,23 @@ Tall man, 6'4", large natural frame with physical authority that has nothing to 
 - Silver pendant under her shirts: a rune she does not know the meaning of, given to her by her Norwegian grandmother on her thirteenth birthday with no explanation.
 - Cannot stand the smell of woodsmoke without crying.
 - Has, twice in her life, finished sentences in Old Norse without realizing.
-- Has never been seriously in love.
+- Stops dead when she sees her own reflection in a window at night. Does not know why.
 
-**Physical:** 5'7", lean from running (sub-three-hour Zurich Marathon finisher). Dark hair usually in a messy bun she's just shoved a pencil into. Glasses she keeps meaning to update. Pale, freckled across the nose. Striking rather than conventionally pretty.
+**Physical:** 5'7", slender yet strong, deceptively agile — Viking-clan bones under a runner's frame (sub-three-hour Zurich Marathon finisher).
+- **Hair:** Long, dark, Celtic-black, down past her shoulder blades when she lets it. Default style is up with strands framing the face — one ear always showing, the other half-covered. Work mode: messy bun with a pencil shoved through it.
+- **Eyes:** Pale grey-green, sea-glass — the cold Atlantic light. Strangers have stopped talking mid-sentence to look at them. Hal, the first time he meets them across a Berlin hotel bar, forgets what he was about to say.
+- **Skin:** Pale. Freckled across the nose and the tops of the cheekbones.
+- **Face:** Beautiful in a way she does not know she is. The kind of beauty that does not photograph — only registers in person, only across time.
+- **Dress:** Flannel shirts over tees. Jeans. Boots she has owned for nine years. Glasses she keeps meaning to update. No makeup. Silver pendant under her shirt, always.
+- **Bearing:** Quiet. Eyes down in a crowd. Looks up only when something matters.
+
+### Marks
+
+None on her skin. Her marks are elsewhere — the silver rune pendant from her Norwegian grandmother (worn since age thirteen, no explanation given, never taken off), the Old Norse that slips out of her mouth without warning, the dream that has been with her her whole life. Where Callum is the most marked of the keepers, Erin is the most *unmarked* — because the working did not need to write on her. It wrote *through* her.
+
+### AI Generation Reference — Erin
+
+*Erin Halvorsen, 38, 5'7", slender and agile, runner's build. Long Celtic-black hair down past the shoulder blades, usually pinned up with loose strands framing the face — one ear always showing, the other half-covered. Pale skin with freckles across the nose and upper cheekbones. Pale grey-green / sea-glass eyes — cold Atlantic light, slightly otherworldly. Beautiful in a way she clearly does not realize. Dressed in flannel over tee, jeans, worn boots. Glasses (round, thin metal frame). Silver pendant on a chain, mostly hidden. Quiet bearing. Looks up rather than around. Settings: Zurich apartment, ETH Zurich corridors, security conferences (Black Hat, DEF CON, RSA), Berlin hotel bars. Mood: nerdy-luminous default; devastating sharpness when interrupted.*
 
 ### Past Life — Sigrún
 
@@ -314,4 +330,4 @@ After Book Four, the lifted-glass moments in every subsequent book are for both 
 
 ---
 
-*Document version 0.6. Brand's Ch 23 seed line added. Marcus's full cross-series arc and Book 4 death mechanic added. Hal's series arc with Beth-and-Maya vision in Book 5 referenced. Erin's series arc referenced. Stefan's Book 4 lead referenced. Mihai's Book 3 lead referenced. Tony's Book 5 lead referenced. Sarah's role in Marcus's death referenced. Series-antagonist reference (the Old One) added to Brand's profile.*
+*Document version 0.7. Erin Physical, Personality, Marks, and AI Generation Reference updated. Pale grey-green / sea-glass eyes locked. Hair signature (long Celtic-black, one ear always showing) locked. Beauty-unaware framing locked. Sharpness reframed as secondary register. Brand's Ch 23 seed line added. Marcus's full cross-series arc and Book 4 death mechanic added. Hal's series arc with Beth-and-Maya vision in Book 5 referenced. Erin's series arc referenced. Stefan's Book 4 lead referenced. Mihai's Book 3 lead referenced. Tony's Book 5 lead referenced. Sarah's role in Marcus's death referenced. Series-antagonist reference (the Old One) added to Brand's profile.*
