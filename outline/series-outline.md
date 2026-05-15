@@ -7,7 +7,7 @@
 
 ## Series Concept
 
-A modern-world series in which a hidden council of memory-bearers — souls displaced from older bindings into the present day — slowly find each other across the world's IT conference circuit and the everyday accidents of modern life, and realize that the bindings their long-dead bloodlines once held are failing one by one. Each book travels to a different culture, a different mythology, a different keeper-line, a different sleeping thing. The world is the same world. The duty is the same duty. The cast — anchored by two — rotates.
+A modern-world series in which a hidden council of memory-bearers — souls displaced from older bindings into the present day — slowly find each other across the world's IT conference circuit and the everyday accidents of modern life, and realize that the bindings their long-dead bloodlines once held are failing one by one. Each book travels to a different culture, a different mythology, a different keeper-line, a different sleeping thing. The duty is the same duty. The cast — anchored by two — rotates.
 
 **Tone, sustained across the series:** Galaxy Quest's heart and humor. LOTR's weight and worldbuilding. The lived texture of the Microsoft conference circuit as the cover under which everything else happens. Adult fiction (R-rated equivalent), with real loss and real intimacy and real grief, but never grimdark. The friendships are the soul of every book.
 
@@ -32,12 +32,14 @@ Every plot decision, every character beat, every loss in the series serves this 
 
 ---
 
-## The Inherited-World Model
+## The Working's Reach
 
-The series follows the model laid out in detail in `the_keepers_book_one_outline.md`: continuity of world, rotating cast, anchor characters, memory as load-bearing device, loss with weight. The reference points are Tolkien's *Hobbit → LOTR* and CS Lewis's *Chronicles of Narnia.* Both authors let the world stay constant while the protagonists rotated, both used memory and flashback as story-shape rather than flavor, and both allowed beloved characters to genuinely leave — and then carried them through every book that followed.
+The series follows the structural model laid out in detail in `the_keepers_book_one_outline.md`: rotating cast, anchor characters, memory as load-bearing device, loss with weight. The structural reference points are Tolkien's *Hobbit → LOTR* and CS Lewis's *Chronicles of Narnia.* Both authors let the framework stay constant while the protagonists rotated, both used memory and flashback as story-shape rather than flavor, and both allowed beloved characters to genuinely leave — and then carried them through every book that followed.
+
+**What the working did:** It took the keepers from Eikvik. Where it took them — what world they woke in, what era, what distance was crossed — is the question the series answers across Books 1-3. The characters don't know. The reader doesn't know yet. What is known: the keepers exist, the bindings are failing, and the duty holds no matter what shore they woke on.
 
 For our purposes:
-- **The world is constant.** The keepers, the bindings, the Eikvik backstory, the Microsoft conference circuit as the modern crew's connective tissue, the slow accretion of the global council.
+- **The framework is constant.** The keepers, the bindings, the Eikvik backstory, the Microsoft conference circuit as the modern crew's connective tissue, the slow accretion of the global council. *What world that circuit exists on is load-bearing mystery — do not resolve it in Book 1.*
 - **The cast rotates.** Each book centers a different keeper or pair of keepers and a different bloodline. The crew from Book One is present across the series, but they don't all show up in every book, and when they do, sometimes they lead and sometimes they support.
 - **The anchors are constant.** Hal and Erin appear in every book.
 - **Memory is the engine.** Past lives. Old verses. Dreams. Things characters did long ago that catch up to them later. A line in Book 1 returns in Book 4 with new meaning.
@@ -118,6 +120,28 @@ After the working at Callanish completes, **memories don't go away — but they 
 This gives us the right shape for each book going forward. Each new bloodline's keepers haven't had their working remade yet. They start their book in the *memories surfacing* state — the way Hal and the crew were in Part Two of Book One. By the end of their book, after their binding is remade, they have their past-life memories integrated the same way the Eikvik keepers do.
 
 **Same dramatic shape every time, but with different cultures, different threats, and different keepers — so it doesn't feel formulaic.** And it lets the Eikvik characters do the *teaching* role in later books — Hal and Erin have already walked this path, so they can recognize where the new keepers are on it.
+
+---
+
+## Series Arc — The Cosmology Reveal
+
+The series carries a central mystery from the first page: what the seer's working actually did, where it took the keepers, and what world they woke in. **This mystery is load-bearing. Do not resolve it in Book 1.**
+
+**Reveal cadence:**
+- **Book 1:** The mechanism is unknown. Keepers discover they have past lives from a 9th-century Norse village. They accept the vow. The reader does not learn what the working was or where it sent them — only that something vast took them, and that Brand came through too.
+- **Book 2 (Japan):** The world feels almost-right in ways the keepers can't name. The Kyoto keeper and her bloodline feel *different* from the Eikvik keepers in a way that nags. Seeds planted, not resolved.
+- **Book 3 (Romania):** The partial reveal. Mid-book: the nature of the working begins to come clear. By the end of Book 3 the keepers understand the cosmology. The reader understands it with them.
+- **Books 4-6:** The keepers inhabit the wider canvas the reveal opens. Cross-realm travel becomes possible, then necessary, then the spine of the series.
+
+**Series geography (escalating outward):**
+- **Book 1** — Modern Earth (Hill Country, Lewis). As written. The world seems like ours.
+- **Book 2** — Modern Earth. Strangeness accumulates quietly.
+- **Book 3** — Crossings begin. A character steps through and comes back changed.
+- **Book 4** — An act takes place in another realm.
+- **Book 5** — Primarily in a mythic realm. The Andes of *this* world sit on something that was never only this world.
+- **Book 6** — Crossing-war. The full canvas opens.
+
+**The structural principle:** What is constant is the *keepers, the bindings, the duty, and the friendships* — not the cosmological setting. The series earns its multi-realm canvas by keeping Book 1 fully grounded and letting the mystery deepen slowly. The prologue and Chapter 1 already do this correctly. Protect them.
 
 ---
 
@@ -266,4 +290,4 @@ These remain genuinely unanswered and are open for revision as we draft.
 
 ---
 
-*Document version 0.2. Series-level antagonist locked (hybrid). Series theme locked. Marcus's full cross-book arc and Book 4 death mechanic locked. Beth-and-Maya Book 5 vision mechanic locked. Memory continuity model locked. Book 1-to-Book 2 linking mechanic (three letters) locked. Must-Do list added.*
+*Document version 0.3. Series-level antagonist locked (hybrid). Series theme locked. Marcus's full cross-book arc and Book 4 death mechanic locked. Beth-and-Maya Book 5 vision mechanic locked. Memory continuity model locked. Book 1-to-Book 2 linking mechanic (three letters) locked. Must-Do list added. Hybrid cosmology model adopted: "The Inherited-World Model" renamed "The Working's Reach"; cosmological mechanism deliberately ambiguous — resolved across Books 1-3; Series Arc section added with reveal cadence and geography escalation locked.*

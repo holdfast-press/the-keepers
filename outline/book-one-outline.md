@@ -8,7 +8,7 @@
 
 A character-driven sci-fi/fantasy novel with a contemporary, comedic-but-grounded voice. Adult fiction (R-rated equivalent).
 
-**The Hook:** A tight-knit group of IT professionals — most of them Microsoft MVPs — have spent years bumping into each other at conferences worldwide, building a real brotherhood through their work. Then strange things start happening — déjà vu, fragments of memory, dreams in languages they shouldn't know. Slowly, impossibly, they discover they aren't just colleagues. They're the displaced survivors of the same Viking-era village, hurled through time and stripped of their memories by a force none of them yet understands — and the thing their village died trying to bind is loose in the world again.
+**The Hook:** A tight-knit group of IT professionals — most of them Microsoft MVPs — have spent years bumping into each other at conferences worldwide, building a real brotherhood through their work. Then strange things start happening — déjà vu, fragments of memory, dreams in languages they shouldn't know. Slowly, impossibly, they discover they aren't just colleagues. They're the displaced survivors of the same Viking-era village, carried beyond their age and stripped of their memories by a force none of them yet understands — and the thing their village died trying to bind is loose in the world again.
 
 **Tone:** Galaxy Quest's heart and humor + LOTR's weight and worldbuilding + Stephen R. Lawhead's ley-line realism (Bright Empires) + the everyday texture of the modern Microsoft tech-conference circuit.
 
@@ -84,13 +84,13 @@ The crew is bound together in modern times by the **Microsoft MVP Award.** First
 
 ---
 
-## Series Structure — *The Inherited-World Model (Locked)*
+## Series Structure — *The Working's Reach (Structural Model Locked; Cosmological Mechanism Deliberately Open)*
 
-**Series banner: *The Keepers.*** A recurring world. Recurring anchor characters. A rotating focus.
+**Series banner: *The Keepers.*** A recurring framework. Recurring anchor characters. A rotating focus.
 
-The model draws on the great series that have shaped the genre — Tolkien's *Hobbit* into *Lord of the Rings,* and CS Lewis's *Chronicles of Narnia.* What they share:
+The structural model draws on the great series that have shaped the genre — Tolkien's *Hobbit* into *Lord of the Rings,* and CS Lewis's *Chronicles of Narnia.* What they share:
 
-- **Continuity of world, not of cast.** Middle-earth is the same Middle-earth across both Tolkien books, but Bilbo's company is mostly gone by the time Frodo sets out. Aslan's Country is the same across all seven Narnia books, but the Pevensies cycle in and out, and by *The Silver Chair* the protagonists are Eustace and Jill. The *world* is the constant. The cast rotates.
+- **Continuity of framework, not of cast.** Middle-earth is the same Middle-earth across both Tolkien books, but Bilbo's company is mostly gone by the time Frodo sets out. Aslan's Country is the same across all seven Narnia books, but the Pevensies cycle in and out, and by *The Silver Chair* the protagonists are Eustace and Jill. The *framework* is constant. The cast rotates. *For The Keepers, the framework is constant — the keepers, the duty, the bindings, the friendships — but what world they inhabit and how they got there is load-bearing mystery, resolved across Books 1-3.*
 - **Anchor characters who outlast their books.** Bilbo and Gandalf carry from *The Hobbit* into *LOTR.* Aslan is in every Narnia book. Even when the focus shifts, the anchor characters are felt, and when they return — Bilbo at Rivendell, Lucy in *Voyage of the Dawn Treader* — it lands hard because the reader has missed them.
 - **Memory and flashback as load-bearing device.** Tolkien fills LOTR with characters remembering older days. Lewis ends Narnia with *The Last Battle,* where characters from across the series gather from different books and different times. The past is constantly being re-summoned.
 - **Loss with weight.** Boromir is dead by the start of *Two Towers* and his absence haunts the trilogy. Reepicheep sails east at the end of *Dawn Treader.* Beloved characters leave — and are carried across the books that follow.
@@ -214,7 +214,7 @@ Mel Carter (Sydney, *not* villager), Hamish Reid (Auckland, *not*), Annika de Vr
 
 ## Status
 
-All foundation decisions locked. Series model locked (Tolkien + Narnia / inherited-world). Series antagonist locked (hybrid). Series theme locked. Brand's seed line locked. Three-letters ending locked. Memory continuity model locked. Part One beats fleshed. Part Two and Part Three beats consolidated forward.
+All foundation decisions locked. Series structural model locked (Tolkien + Narnia — rotating cast, anchor characters, memory engine). Cosmological mechanism deliberately ambiguous — hybrid model adopted; resolved across Books 1-3 (see series-outline.md "Series Arc — The Cosmology Reveal"). Series antagonist locked (hybrid). Series theme locked. Brand's seed line locked. Three-letters ending locked. Memory continuity model locked. Part One beats fleshed. Part Two and Part Three beats consolidated forward.
 
 Ready to support drafting from Chapter 2 forward.
 

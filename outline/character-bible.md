@@ -230,7 +230,7 @@ In any conference room he is the most confident man present. Loud opinions on ro
 
 Brand was caught in the outer edge of the seer's working at the moment Eirik struck him down on the strand. The working stripped names from the keepers as protection — but Brand was never one of the keepers, so it took nothing from him. He carried his name, his memory, and his vow through intact.
 
-His master — the Hungering Earth, the thing the village had died to bind — sustained him across the centuries. He did not age. He did not sleep in any sense a human would understand. He arrived in the modern world the same day he left the strand, by his own felt time: twelve hundred years passed, and to him it was a single long step through cold air. He found the conference circuit within a decade. He has been there ever since, because that is where Hal is.
+His master — the Hungering Earth, the thing the village had died to bind — sustained him across the crossing, or across whatever distance lay between the strand and here. He did not age. He did not sleep in any sense a human would understand. He stepped through cold air and on the other side the world was strange and the sky was wrong. He does not know how far he traveled or in which direction. He knows only that his master held him, and that when he arrived this world was waiting, and Hal was in it. He found the conference circuit within a decade. He has been there ever since, because that is where Hal is.
 
 ### His End — Ch 23 — *with the Seed Line*
 
