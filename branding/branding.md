@@ -1,5 +1,5 @@
 # THE KEEPERS
-## Branding & Online Presence — v0.6
+## Branding & Online Presence — v0.7
 
 *A working document. Decisions are proposals to lock or revise. AI prompts are production-ready as written; refine on iteration. Everything here is meant to be built on, not preserved in amber.*
 
@@ -323,6 +323,57 @@ Final 5 seconds: cut to black. Wordmark fades in. Tagline beneath in Cormorant i
 - *Hereditary* (2018) — for the slow-build dread, restraint with sound.
 - *Annihilation* (2018) — for the way uncanny visuals reveal themselves slowly.
 - *Severance* season opener — for the modern-corporate-but-something-is-wrong feel.
+
+---
+
+### Kling Pro Prompts — Production-Ready
+
+**Workflow:** Generate each clip individually in Kling Pro at 15 seconds. Combine all four in CapCut, Premiere, or DaVinci Resolve. Add a single music track across the assembled cut in post — do not use Kling's built-in audio, as you are combining clips. Consistent cinematic grade across all clips: cool shadows, warm amber source light where applicable, film grain.
+
+**Character reference (use for consistency across all clips):**
+- **Hal:** 43, 6'4", broad natural frame, long full beard (dirty-blond gone heavily silver), medium-length hair, blue-grey eyes, dark jeans + blue/grey button-down, navy conference badge ribbon, wedding ring on a chain at the sternum.
+- **Erin:** 38, 5'7", slender and agile, long Celtic-black hair pinned up with strands framing the face and one ear always showing, pale skin, freckles across the nose, pale grey-green / sea-glass eyes, thin-frame glasses, flannel over tee, silver pendant mostly hidden.
+- **Brand/Wes:** Mid-fifties, dark suit jacket, corporate haircut, burgundy badge — face always slightly out of focus, never quite resolvable.
+
+---
+
+#### FULL TRAILER — 4 × 15 seconds
+
+**Clip 1 — The Strand**
+
+*9th-century Norse shoreline at night. A flat gravel strand. A bonfire blazes at the waterline. A line of men in fur cloaks and wool tunics stand at the water's edge — silent, afraid, waiting. In the foreground: a young woman, 18, kneeling with both palms pressed flat into the wet earth. Long dark Celtic-black hair loose and soaking in the rain. Pale skin, freckles across the nose, pale grey-green eyes that catch the firelight with an otherworldly cold light. Her lips are moving in a low continuous chant. She is luminously beautiful in a way she is completely unaware of. Behind her, a tall broad young man — long dirty-blond beard beginning, 19, wide-shouldered — watches her with the expression of a man watching the world end and not wanting to look away. The water behind the group begins to spiral upward against the wind — slowly, impossibly. Camera: begins wide on the full scene — shore, bonfire, gathered men — then pushes slowly through the crowd and arrives close on the woman's face, her pale grey-green eyes open and fixed on something not in this world. Cinematic film grain. Deep shadow, fire-orange, cold moonlight on wet stone. Rain on the surface of everything. Slow and inevitable. No text.*
+
+**Clip 2 — The Hotel Room**
+
+*Modern. San Francisco. A hotel room, 2 a.m. One amber lamp. A man — 43, 6'4", massive natural frame, long full beard (dirty-blond gone heavily silver), wearing a faded college t-shirt and boxers — sits on the edge of a hotel bed with his head in his hands. He is not crying. He is past crying. After a long beat he reaches under his shirt and pulls out a chain with a wedding ring on it and holds it in his closed fist without looking at it. Behind him through floor-to-ceiling glass: San Francisco in the fog, the Bay Bridge threaded with amber traffic, Moscone Center lit below, a luminous wet mist softening every edge. Camera: starts outside the glass on the city, floats slowly back through the glass, finds the man in silhouette — amber lamp warm on his left, cold blue city light on his right. Arrives on a tight shot of his face, downcast, beard catching the light. Holds. Cinematic grade — cool shadows, warm amber source, the opposition of the two lights deliberate. No text.*
+
+**Clip 3 — The Meeting**
+
+*A dimly lit hotel bar, Berlin. Evening. A woman — 38, 5'7", slender, long Celtic-black hair pinned up with loose strands framing her face and one ear always showing, pale freckled skin, pale grey-green sea-glass eyes, thin-frame glasses, flannel shirt open over a tee, silver pendant just visible at her collarbone — sits alone at the bar with a laptop open and papers spread around her, completely inside her own mind. The large bearded man (now in a dark button-down, conference badge on a navy ribbon) walks in and takes a stool two seats away. Neither looks up. Then something makes him look. She is already looking — half a second longer than she realized. Their eyes meet across the bar. Hers are pale grey-green, sea-glass, cold Atlantic light. His are blue-grey, water over slate. Neither speaks. Something is happening that neither of them has a word for. Camera: slow push from across the bar toward them, arriving on a tight two-shot — her face slightly out of focus in the foreground, his face slightly out of focus behind her, the empty space between them the sharpest thing in the frame. Warm amber bar light. Blurred city lights in the window behind them. Cinematic. No text.*
+
+**Clip 4 — Callanish**
+
+*Night. The Callanish Standing Stones, Isle of Lewis, Scotland. Late autumn. Rain and wind. A group of people in modern clothes — some with conference badge ribbons still around their necks — inside the stone circle. One person is on their knees in the wet grass. The largest figure — the tall bearded man — stands at the great central stone with both palms flat against the ancient rock, eyes closed, face tilted up in the rain. Beside him, close, the dark-haired woman stands with her lips moving in the same low chant as the woman on the strand. The same chant. The same throat. A thousand years later. Around them, barely visible — a ghost-ring of other figures overlapping the modern group for three seconds, standing at these same stones, in different clothes, in another century — then releasing. The stones pulse once with a cold light that is not lightning. Camera: opens wide — stones massive against a storm sky — descends slowly through rain to a tight two-shot of the man and the woman at the central stone, her hand finding his arm. Holds four seconds. Cuts to black. Two seconds. White serif text: THE KEEPERS. Smaller below: WHAT THE STONES REMEMBER. Fade.*
+
+---
+
+#### TEASER — 4 × 15 seconds
+
+**Clip 1 — The Strand**
+
+*9th-century. Night. A flat gravel shore. Bonfire. Rain. A young woman alone at the center of a ring of firelight — both hands in the wet earth, dark Celtic-black hair loose and soaking, pale freckled face, pale grey-green eyes open and fixed on something not in this world. She is the frame. The men behind her are background — barely lit, barely there. Her lips are moving. What she is saying has no modern equivalent. Behind the group the water is doing something slow and wrong — a column rising against the wind, catching the firelight orange. Camera: close on her face from the first second, intimate and disorienting — barely pulls back. The world beyond her face is dark and ambiguous. Firelight flickers across her cheekbones and her sea-glass eyes. Hold on her face. Then the fire goes out. Black. Cinematic. No text.*
+
+**Clip 2 — The Alarm**
+
+*A hotel room. Dark. A digital clock reads 7:00 AM and begins to beep. A large hand reaches from under a duvet — slowly, missing twice — and kills the snooze. Silence. A man's breathing. He lies flat on his back in the dark, eyes open, staring at the ceiling. 43. Large frame. Long silver-streaked beard. The kind of stillness that means he has been awake for a while and let the clock ring anyway. His face: the specific blankness of a man who just came up from a dream he is already losing. He reaches up and presses his hand flat against his chest, over something under his shirt. Holds it. Camera: begins on the ceiling above him — his perspective — tilts slowly down to find his face, arriving close on his open eyes looking upward. Warm amber lamplight from one side. Cold blue from the curtained window. Cinematic. Slow. No text.*
+
+**Clip 3 — The Four-Top**
+
+*A hotel bar. 39th floor, San Francisco. The Bay dark and lit behind the glass. A large bearded man — dark jeans, blue button-down, navy conference badge — sits at a corner banquette with friends. Mid-sentence, his eye catches something across the room. Cut to: a four-top, twenty feet away. A man sits alone — mid-fifties, dark suit jacket over a chair, corporate haircut, burgundy badge. The camera tries to hold his face and cannot. Focus finds his hands, his jacket, two untouched whiskeys sweating on the table — but his face refuses to resolve, slides sideways at the edge of perception every time the lens tries to settle on it. Cut back to the bearded man. He is looking directly at the four-top. His expression is not alarmed. Not curious. Something older. Something he has no word for. Camera: crosscuts between the bearded man's face (in sharp focus) and the four-top (face always unresolvable, always slipping). Warm amber bar light. Cinematic. No text.*
+
+**Clip 4 — The Window**
+
+*A man alone at a hotel window. 2 a.m. San Francisco below, fog swallowing the lights. His forehead is against the cold glass. Eyes open. A wedding ring held in his closed fist. He stays like that for a long moment. Then his lips move — quietly, almost nothing. He says something to the window. The window says nothing back. He closes his eyes. Camera: outside the glass, shooting inward. His face reflected faintly in the glass — a ghost-layer of him overlaid on the city lights below — both present at once, the living man and the reflection. Very slow push in toward the glass. Holds. Then cuts to black. Three seconds. White serif text fades in: "Find me." Hold two beats. Fades to: THE KEEPERS. Smaller below: WHAT THE STONES REMEMBER. Smaller still: coming. Fade to black.*
 
 ---
 
