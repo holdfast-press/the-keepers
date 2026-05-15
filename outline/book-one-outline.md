@@ -23,10 +23,10 @@ A character-driven sci-fi/fantasy novel with a contemporary, comedic-but-grounde
 The friendships in this book are the result of fifteen years of small choices, not a convenient cluster of close friends. Each was met at a specific conference, in a specific year, at a specific point in Hal's life. The reader feels the *weight* of these friendships in Part One — and in Part Two slowly realizes that something older than choice was bringing these particular people together.
 
 **Year minus-15** *(Hal age 28, married to Beth, before Maya):* **Hal's first European speaking trip.** A community Microsoft conference in Amsterdam. He gives a forty-minute talk on early Azure architecture to a half-empty room.
-- Meets **Kenny** (then 24, also speaking, also nervous). They share a long beer that night and discover they're both married, both new fathers-to-be (Beth was pregnant; Kenny's first marriage was just starting), both terrified of public speaking. The friendship begins here. Slow burn.
+- Meets **Callum** (then 24, also speaking, also nervous). They share a long beer that night and discover they're both married, both new fathers-to-be (Beth was pregnant; Callum's first marriage was just starting), both terrified of public speaking. The friendship begins here. Slow burn.
 - Same conference, same week: **Erin** is in the audience for a security session in the next room. They cross paths in the lobby. He notices her. She notices him. Neither of them says hello.
 
-**Year minus-13** *(Hal age 30):* **Kenny's wedding.** Hal flies to Edinburgh as best man. Meets Kenny's grandparents at the reception. Visits the croft on the Isle of Lewis for the first time, and stands at Callanish without knowing what he is standing at.
+**Year minus-13** *(Hal age 30):* **Callum's wedding.** Hal flies to Edinburgh as best man. Meets Callum's grandparents at the reception. Visits the croft on the Isle of Lewis for the first time, and stands at Callanish without knowing what he is standing at.
 
 **Year minus-12** *(Hal age 31):* **Hal's first MVP Summit in Redmond.** First time he meets **Jan, Stefan, Tony, Mel, Hamish, Annika** in person — most of them already know each other from previous summits. Hal joins the rotation. Photos exist of all of them at the same conference dinners. He still has a few of these on his phone.
 
@@ -35,10 +35,10 @@ The friendships in this book are the result of fifteen years of small choices, n
 **Year minus-7** *(Hal age 36):* Maya is born. Hal cuts back travel for a year. Comes back to Ignite when she's eighteen months old; the crew throws him a baby-shower at a hotel bar.
 
 **Year minus-4** *(Hal age 39):* **Beth and Maya are killed** on I-35 returning from Austin-Bergstrom airport, after a previous Microsoft Ignite. Brand engineers it.
-- Kenny flies to Austin within forty-eight hours and sleeps on Hal's couch for a week. Jan flies in for the funeral. Mel sends a parcel of Australian wine he can't open. Annika sends a single handwritten letter in three languages he reads at 3 a.m. and reads again every year on the anniversary.
+- Callum flies to Austin within forty-eight hours and sleeps on Hal's couch for a week. Jan flies in for the funeral. Mel sends a parcel of Australian wine he can't open. Annika sends a single handwritten letter in three languages he reads at 3 a.m. and reads again every year on the anniversary.
 - The friendships were already real. Now they are load-bearing.
 
-**Years minus-4 through minus-1** *(Hal age 39–42):* Hal copes by going *to* the friends. Edinburgh long weekends with Kenny three or four times a year. Hamburg twice with Stefan and Maja. Amsterdam with Annika. He eats meals he doesn't remember in restaurants he can't name. He sleeps in their guest rooms. The trips are how he survives.
+**Years minus-4 through minus-1** *(Hal age 39–42):* Hal copes by going *to* the friends. Edinburgh long weekends with Callum three or four times a year. Hamburg twice with Stefan and Maja. Amsterdam with Annika. He eats meals he doesn't remember in restaurants he can't name. He sleeps in their guest rooms. The trips are how he survives.
 
 **Story present** *(Hal age 43):* Chapter 1 opens at this year's Ignite.
 
@@ -50,7 +50,7 @@ The friendships in this book are the result of fifteen years of small choices, n
 
 **The pull works on three levels:**
 1. **Recognition (low frequency, lifelong):** Villagers feel a quiet *I-know-you* hum when they meet other villagers, mistakenly attributed to chemistry, professional respect, or tribal affinity. *(Erin and Hal: twelve years of low hum.)*
-2. **Resonance (rising as the binding fails):** As the Hungering Earth's binding weakens, villager-to-villager contact begins triggering memory bleed-through — déjà vu, dreams in shared languages, foreign words slipping out. *(Kenny in Minneapolis, Ch 4.)*
+2. **Resonance (rising as the binding fails):** As the Hungering Earth's binding weakens, villager-to-villager contact begins triggering memory bleed-through — déjà vu, dreams in shared languages, foreign words slipping out. *(Callum in Minneapolis, Ch 4.)*
 3. **Ignition (proximity to *vegir* / ley lines):** At ley-line sites, the bleed-through becomes full memory cracking. *(Thingvellir, Ch 8.)*
 
 **The pull does NOT work on non-villagers.** Mel will love these people fiercely and never feel the hum. Stefan-the-Skeptic will rationalize his hum away because his engineer's brain refuses to admit a hum exists. Sarah Wexler is going to feel painfully outside something she can't see, and that hurts her, and she stays anyway. **This is part of the book's heart: who chooses these people without being supernaturally compelled to.**
@@ -101,7 +101,7 @@ The model draws on the great series that have shaped the genre — Tolkien's *Ho
 - **The supporting cast rotates with intention.** Different leads in different books.
 - **New keepers join each book.** By Book 5 or 6, "the crew" is a global gathering.
 - **Memory and flashback are story-shape, not flavor.**
-- **The dead stay dead — and stay present.** Kenny is gone after Book 1, carried in every book that follows.
+- **The dead stay dead — and stay present.** Callum is gone after Book 1, carried in every book that follows.
 
 **Book One closes the immediate threat.** The Hungering Earth is re-bound. Brand is unmade. Hal inherits the keeper's vow. The Old One — the central figure behind Brand and behind the global failure of bindings — is planted via Brand's final words. *(See series outline for the full series antagonist model.)*
 
@@ -118,7 +118,7 @@ The model draws on the great series that have shaped the genre — Tolkien's *Ho
 - **Book One:** *What the Stones Remember*
 
 ### POV & Tense
-**Third person limited, past tense.** Primary POV is Hal. Chapter-level shifts to Erin, Kenny, and Jan when their interiority earns it.
+**Third person limited, past tense.** Primary POV is Hal. Chapter-level shifts to Erin, Callum, and Jan when their interiority earns it.
 
 ### Tone & Content
 R-rated equivalent.
@@ -136,12 +136,12 @@ R-rated equivalent.
 
 ### Other Pairs
 - **Jan Bjornstad** (Trondheim, Azure MVP) → **Jorund**, master shipwright
-- **Kenny MacLeod** (Edinburgh, M365 MVP) → **Kjartan**, warrior-skald *(Lost One — Ch 17)*
+- **Callum MacLeod** (Edinburgh, M365 MVP) → **Kjartan**, warrior-skald *(Lost One — Ch 17)*
 - **Stefan Vogel** (Hamburg, Windows MVP, the Skeptic) → **Asbjorn the Smith**
 
 ### Antagonist
 - **Past:** **Brand Wolfsbane**, sorcerer-jarl. Operative of an older figure.
-- **Modern:** **"Brad."** Sales engineer for a third-tier ISV that makes hybrid-cloud backup software. **Engineered Beth and Maya's deaths.** Mid-Part-Two reveal. **Unmade at Callanish in Ch 23 — with a final seed line planting the series-level antagonist.**
+- **Modern:** **"Wes."** Sales engineer for a third-tier ISV that makes hybrid-cloud backup software. **Engineered Beth and Maya's deaths.** Mid-Part-Two reveal. **Unmade at Callanish in Ch 23 — with a final seed line planting the series-level antagonist.**
 
 ### Entity
 **The Hungering Earth.** Bound beneath the Trøndelag fjordland. Feeds on identity. True name never spoken. **Re-bound at Callanish in Ch 23.** *(One of many such entities — others sleep elsewhere.)*
@@ -161,8 +161,8 @@ Mel Carter (Sydney, *not* villager), Hamish Reid (Auckland, *not*), Annika de Vr
 |---|---|---|
 | **Microsoft Ignite** | Moscone Center, San Francisco | Ch 1, Ch 2 |
 | **MVP Global Summit** | Microsoft HQ, Redmond, WA | Backstory |
-| **Amsterdam community conference** | Amsterdam | **Backstory: Hal–Kenny meet, Year minus-15** |
-| **Kenny's Wedding** | Edinburgh | **Backstory: Year minus-13** |
+| **Amsterdam community conference** | Amsterdam | **Backstory: Hal–Callum meet, Year minus-15** |
+| **Callum's Wedding** | Edinburgh | **Backstory: Year minus-13** |
 | **MMS MOA** | Mall of America, Bloomington, MN | Ch 4 |
 | **Experts Live EU** | Estrel, Berlin | Ch 7 — Hal and Erin first speak |
 | **Workplace Ninjas Iceland** | Reykjavik | Ch 8 — Thingvellir |
@@ -176,8 +176,8 @@ Mel Carter (Sydney, *not* villager), Hamish Reid (Auckland, *not*), Annika de Vr
 - **Prologue: Embers** *(drafted)* — The village at the strand. The working. The scattering.
 - **Ch 1 — Bar Tab at the Marriott** *(drafted)* — Microsoft Ignite, San Francisco. Hotel alarm clock cuts from prologue. Marriott Marquis bar. **Plant Brand. Establish Hal's solitary edge inside a friendly room.**
 - **Ch 2 — The Crew** — Day One of Ignite. **Embedded flashback: Hal's first MVP Summit in Redmond, twelve years ago.** The wider circle is sketched through years of accumulated memory, not introduced cold.
-- **Ch 3 — Home** — Hal returns to Austin. Maya's room. **Embedded flashback: the Edinburgh weekend three months ago — the version of Kenny who has been holding him together without saying so.** The DNA test arrives.
-- **Ch 4 — Mall of America** — MMS MOA. Kenny's first language slip — drunk at karaoke, finishes a sentence in Old Norse, doesn't remember doing it. Brand here too, in the back corner of every event.
+- **Ch 3 — Home** — Hal returns to Austin. Maya's room. **Embedded flashback: the Edinburgh weekend three months ago — the version of Callum who has been holding him together without saying so.** The DNA test arrives.
+- **Ch 4 — Mall of America** — MMS MOA. Callum's first language slip — drunk at karaoke, finishes a sentence in Old Norse, doesn't remember doing it. Brand here too, in the back corner of every event.
 - **Ch 5 — Coincidences** — Hal in Austin. Group chat. The crew compares DNA tests over a long week of messages. Nordic markers across the board. Statistically improbable. Hal stops sleeping.
 - **Ch 6 — The Dream** — Multi-POV across continents. Same dream. **Erin's POV included for the first time.** Zurich. Her grandmother's pendant against her sternum. The reader meets her on her own terms before Hal does.
 - **Ch 7 — Berlin** — Experts Live EU at the Estrel. **Twelve years of low hum finally crack open.** Late-night hotel bar. *She has been having the dream too.* They do not sleep together. They do not touch. They talk until the bar closes and then they walk to the river and they talk until the sun comes up.
@@ -190,23 +190,23 @@ Mel Carter (Sydney, *not* villager), Hamish Reid (Auckland, *not*), Annika de Vr
 - **Ch 11 — The Völva** — **Erin POV.** She remembers more than the others. She remembers the seer. The chant. The fire at the strand. Her own hands on Halvard's. The cost of the working. The chapter ends with her in Annika's guest room at 3 a.m., writing rune-stones from memory on hotel notepaper, hands trembling.
 - **Ch 12 — Runes** — Markings appearing on their skin in certain light. Old photos from past Ignites — and there are *marks* on their bodies in those photos that none of them noticed at the time. The runes form a map. Jan in his Trondheim workshop carving the same shape into wood without thinking, *over and over.*
 - **Ch 13 — The Forgettable Man** — Erin is the first to consciously notice Brand. *Look directly at him and he's there. Look away and his name slips.* She tries to photograph him with her phone. The photo comes out blurred in a way phones don't blur. She runs Brand against years of conference photo metadata. The pattern is undeniable. She turns to Hal: ***"He has been planning around you, Hal. For years."***
-- **Ch 14 — Kjartan's Story** — **Kenny POV.** Full memory recovery. Born in the Hebrides. Married Una. Held an infant son. Crossed to Eikvik for the trade. Married into the village. Fought in the shield wall. Held the verses. What he was. What he loved. What he lost. Cuts to modern Kenny — sober for the first time in weeks, in his Edinburgh flat — writing the verses down on a notepad in a language he is now somehow able to write. He calls his grandmother on Lewis. She is quiet for a long time and then says, *"Aye, son. I wondered when you'd be ready."*
+- **Ch 14 — Kjartan's Story** — **Callum POV.** Full memory recovery. Born in the Hebrides. Married Una. Held an infant son. Crossed to Eikvik for the trade. Married into the village. Fought in the shield wall. Held the verses. What he was. What he loved. What he lost. Cuts to modern Callum — sober for the first time in weeks, in his Edinburgh flat — writing the verses down on a notepad in a language he is now somehow able to write. He calls his grandmother on Lewis. She is quiet for a long time and then says, *"Aye, son. I wondered when you'd be ready."*
 - **Ch 15 — The Skeptic Turns** — Stefan in his Hamburg workshop. Welding a piece of metal that turns out to be the exact shape of a rune he has never seen before. His grandfather's deathbed words come back in his own voice. He calls Hal in the middle of the night and says, ***"Halvard. I need you to tell me what is happening to me."*** **First time anyone in the modern story has called Hal by his old name aloud, except Erin in dreams.**
-- **Ch 16 — The Hunt** — Erin's cryptography toolkit cracks the pattern. Brand has been at every event. **And there are records — partial, obscured, but real — placing "Brad" in Austin the week Beth and Maya died, two miles from I-35 the night of the wreck. Hal learns the truth.** Grief detonates into rage. He calls Erin in the middle of the night and she comes. She flies from Zurich to Austin. They do not sleep together. They sit on Maya's bedroom floor at 3 a.m., and Hal tells Erin about Maya for the first time, and Erin tells Hal about her mother for the first time, and the chapter ends with them holding each other in the doorway of Maya's room.
-- **Ch 17 — The Skald Goes Home** — Brand strikes. Kenny dies. The way he dies matters — saving someone else, with verses on his lips that no one in the modern world has heard in a thousand years. Erin transcribes the chant as he speaks it. She does not yet know it is the working they will need. **End of Part Two.**
+- **Ch 16 — The Hunt** — Erin's cryptography toolkit cracks the pattern. Brand has been at every event. **And there are records — partial, obscured, but real — placing "Wes" in Austin the week Beth and Maya died, two miles from I-35 the night of the wreck. Hal learns the truth.** Grief detonates into rage. He calls Erin in the middle of the night and she comes. She flies from Zurich to Austin. They do not sleep together. They sit on Maya's bedroom floor at 3 a.m., and Hal tells Erin about Maya for the first time, and Erin tells Hal about her mother for the first time, and the chapter ends with them holding each other in the doorway of Maya's room.
+- **Ch 17 — The Skald Goes Home** — Brand strikes. Callum dies. The way he dies matters — saving someone else, with verses on his lips that no one in the modern world has heard in a thousand years. Erin transcribes the chant as he speaks it. She does not yet know it is the working they will need. **End of Part Two.**
 
 ### PART THREE — Homecoming *(Chapters 18–24)*
 
-- **Ch 18 — The Working** — Through Erin's recovered memories, the runic map, and the chant she transcribed from Kenny's death, they find the path: a ley-line nexus where the working can be reopened. **They learn the duty.** Not a choice between going back or staying. A choice between finishing what their fathers started or letting the world be eaten one name at a time. The keeper's vow is laid out for what it is — a life, not a moment.
-- **Ch 19 — Crossing** — They travel to the Outer Hebrides. Road-trip energy across the friend group. Bonding. Fear. Humor in the dark. Mel insists on driving; the van breaks down outside Glasgow; they end up in a roadside pub eating fish and chips while Annika tries to explain to Marcus what is actually happening to them in a way that doesn't make her sound insane. Hal and Erin, together at last and grieving Kenny in equal measure. Jan, quietly, finishes the last component of the working in the back of the van as they drive — wood from the boat he has been building in his garage for six years. **Marcus is along for the ride. He doesn't fully understand. He chooses to come anyway. (Seed for his arc across the series.)**
-- **Ch 20 — The Old Ways** — They have to relearn what they once knew. Training. Failure. A moment of grace where Stefan, of all people, remembers exactly how to forge a rune-stone with his hands. **The chant Erin transcribed from Kenny's death turns out to be the working they need.** They practice it together. It does not work the first time, or the second. By the third attempt the air around them is humming and one of the candles on the floor of the cottage will not stop burning even when it is blown out.
-- **Ch 21 — The Stones** — Callanish. The standing stones in moonlight. Brand has closed in. He arrives at the croft Kenny grew up visiting, and he is not the man at the conferences anymore. He is something less than human and more than a man. He has not loved anyone in seven hundred years and he intends to take from Hal what was taken from him. The chapter ends with the crew walking up to the stones at first light, in a procession that is part Norse working and part their own modern grief.
+- **Ch 18 — The Working** — Through Erin's recovered memories, the runic map, and the chant she transcribed from Callum's death, they find the path: a ley-line nexus where the working can be reopened. **They learn the duty.** Not a choice between going back or staying. A choice between finishing what their fathers started or letting the world be eaten one name at a time. The keeper's vow is laid out for what it is — a life, not a moment.
+- **Ch 19 — Crossing** — They travel to the Outer Hebrides. Road-trip energy across the friend group. Bonding. Fear. Humor in the dark. Mel insists on driving; the van breaks down outside Glasgow; they end up in a roadside pub eating fish and chips while Annika tries to explain to Marcus what is actually happening to them in a way that doesn't make her sound insane. Hal and Erin, together at last and grieving Callum in equal measure. Jan, quietly, finishes the last component of the working in the back of the van as they drive — wood from the boat he has been building in his garage for six years. **Marcus is along for the ride. He doesn't fully understand. He chooses to come anyway. (Seed for his arc across the series.)**
+- **Ch 20 — The Old Ways** — They have to relearn what they once knew. Training. Failure. A moment of grace where Stefan, of all people, remembers exactly how to forge a rune-stone with his hands. **The chant Erin transcribed from Callum's death turns out to be the working they need.** They practice it together. It does not work the first time, or the second. By the third attempt the air around them is humming and one of the candles on the floor of the cottage will not stop burning even when it is blown out.
+- **Ch 21 — The Stones** — Callanish. The standing stones in moonlight. Brand has closed in. He arrives at the croft Callum grew up visiting, and he is not the man at the conferences anymore. He is something less than human and more than a man. He has not loved anyone in seven hundred years and he intends to take from Hal what was taken from him. The chapter ends with the crew walking up to the stones at first light, in a procession that is part Norse working and part their own modern grief.
 - **Ch 22 — The Battle at the Stones** — Climactic action. Memory and modernity collide. Draugr rise from the moor — the dead of the village answering the call from beneath. The Hungering Earth reaches up through them. Tony bleeds. Annika is taken briefly and pulled back. Stefan, the smith, holds the line with iron in his hands. Mel and Hamish — the non-villagers — refuse to leave. Sarah Wexler, who has been outside this her whole life, runs into the circle and helps. **Marcus holds the perimeter — outside the circle, watching. (Seed: this is where he learns what it costs to hold from outside, and learns the only ones who can do it are the ones without a bloodline.)** The brotherhood holds.
 - **Ch 23 — The Choice** — The working completes. **The binding is remade. Brand is unmade.** *(But before he goes:* ***Brand's seed line. Something like — "He warned me you'd come at it like this." A look at Hal that lasts a beat too long. Then he is gone.*** *Hal does not register what was said until much later. The reader will not register it until much later, either.)*
 
   Hal has to choose. So does Erin. The temptation is offered: go back. Finish what their fathers couldn't. Live the lives they lost. They choose to stay. The lives they have built in this century are also their lives. The friendships are also their family. Maya and Beth are not behind them in the past — they are with him in him. Hal accepts the keeper's vow at the stones, and Erin accepts hers beside him.
 
-- **Ch 24 — After** — Where everyone landed. What was lost. What was kept. A funeral for Kenny in Edinburgh that the whole crew attends. Hal back in Austin, in Maya's room, finally able to be in there without the room weighing 80,000 pounds. He takes the stuffed shark off her pillow and puts it on the bookshelf — a small thing, but the first thing in four years he has been able to change in this room.
+- **Ch 24 — After** — Where everyone landed. What was lost. What was kept. A funeral for Callum in Edinburgh that the whole crew attends. Hal back in Austin, in Maya's room, finally able to be in there without the room weighing 80,000 pounds. He takes the stuffed shark off her pillow and puts it on the bookshelf — a small thing, but the first thing in four years he has been able to change in this room.
 
   **Final image:** at Hal's kitchen table in Austin, **three letters.** One from Zurich (Erin has flown home; they have a plan). And two others, postmarked from far countries, in handwriting he does not recognize. He picks up the one from Kyoto first because the handwriting catches him — careful brush-strokes, almost a calligraphy, on an envelope the color of bone. The letter inside is from a woman who has been having dreams for thirty years of a man with salt-and-pepper hair standing on a fjord-side strand in the rain. Her dream has a name in it. The name is *Halvard.* Underneath, in her own language: *find me.* **The other two letters wait.**
 

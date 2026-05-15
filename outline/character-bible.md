@@ -39,7 +39,7 @@ He never used the stuffed shark. It is in Maya's room, on her pillow. Maya's roo
 
 **Ignite is the haunted conference.** He has gone back every year since. It is the conference Beth knew him as attending. This year's Ignite — Chapter 1 — is when something starts to come undone.
 
-**How he carries it:** He doesn't talk about it. The crew knows, because Kenny was the one who flew to Austin and slept on his couch for a week. They don't bring it up. Hal will go months functioning, then drink alone in a hotel room until he can't feel his face. He runs to outpace it. He works to outpace it.
+**How he carries it:** He doesn't talk about it. The crew knows, because Callum was the one who flew to Austin and slept on his couch for a week. They don't bring it up. Hal will go months functioning, then drink alone in a hotel room until he can't feel his face. He runs to outpace it. He works to outpace it.
 
 **Tells planted in early chapters:**
 - Hums a melody when stressed — his mother's lullaby, in Old Norse, though he thinks he made it up.
@@ -94,7 +94,7 @@ Apprentice to the village *völva*. 18 winters at the working. Promised to Halva
 
 ### Erin's Arc — Across the Series
 
-- **Book 1:** Finds Hal. Recovers the *völva*'s training in fragments and then in full. Transcribes Kenny's death-chant — which becomes the working they need. Sits on Maya's bedroom floor with Hal at 3 a.m. Accepts the keeper's vow beside him at Callanish.
+- **Book 1:** Finds Hal. Recovers the *völva*'s training in fragments and then in full. Transcribes Callum's death-chant — which becomes the working they need. Sits on Maya's bedroom floor with Hal at 3 a.m. Accepts the keeper's vow beside him at Callanish.
 - **Books 2-5:** Becomes the council's lore-keeper — the one who learns each new bloodline's verses and teaches each new keeper their own forgotten language. **In Book 5, before Hal goes up the mountain to look for Beth and Maya, Erin is the one who tells him to.** *"Look for Beth."* She already knows.
 - **Book 6:** Final cost falls on her and Hal together.
 
@@ -130,18 +130,18 @@ The boat in his garage becomes a literal vessel the council uses in later books.
 
 ---
 
-## Kenny MacLeod — *Kjartan, warrior-skald of the Hebrides — the Lost One*
+## Callum MacLeod — *Kjartan, warrior-skald of the Hebrides — the Lost One*
 
 > *"He fought, and he sang the dead home."*
 
 ### Modern Life
 
-**Full name:** Kenneth Angus MacLeod
+**Full name:** Callum Angus MacLeod
 **Age:** 39
 **Lives:** Edinburgh. Spent every childhood summer at his grandparents' croft on the Isle of Lewis, three hours from Callanish.
 **Work:** Independent IT consultant. **Microsoft 365 MVP for seven years.**
 
-**Marital status — clarification:** Kenny had one brief disastrous marriage at 26. **Hal flew in from Austin to be his best man at Kenny's wedding.** Kenny was divorced two years later, at 28, and has not seriously dated since. In the years following Kenny's divorce, **Hal has visited Edinburgh many times** — long weekends, holidays, Hogmanay one year. The friendship runs deep in both directions: Kenny was the one who flew to Austin and stayed on Hal's couch for a week after Beth and Maya died. *(Hal himself has never been divorced — he is widowed.)*
+**Marital status — clarification:** Callum had one brief disastrous marriage at 26. **Hal flew in from Austin to be his best man at Callum's wedding.** Callum was divorced two years later, at 28, and has not seriously dated since. In the years following Callum's divorce, **Hal has visited Edinburgh many times** — long weekends, holidays, Hogmanay one year. The friendship runs deep in both directions: Callum was the one who flew to Austin and stayed on Hal's couch for a week after Beth and Maya died. *(Hal himself has never been divorced — he is widowed.)*
 
 **Personality:** The heart of the friend group. Loud, profane, generous. Drinks too much. Sings karaoke without irony. Plays guitar — actually well. Secretly writes poetry he has never shown anyone. Cries at movies. Will fight a man for any of his friends without thinking twice.
 
@@ -160,7 +160,7 @@ Born in the Hebrides. Married into Eikvik. 28 winters at the working. Wife **Una
 
 Dies in Chapter 17. Verses on his lips. Erin transcribes the chant; in Chapter 20 it turns out to be the working they need.
 
-**Across the series:** Carried in every book that follows. His verses. His grandmother on Lewis (recurring until she dies offscreen between later books). **A modern Hebridean descendant** — Kenny and Una's bloodline — becomes a quiet recurring presence from Book 3 onward.
+**Across the series:** Carried in every book that follows. His verses. His grandmother on Lewis (recurring until she dies offscreen between later books). **A modern Hebridean descendant** — Callum and Una's bloodline — becomes a quiet recurring presence from Book 3 onward.
 
 ---
 
@@ -212,7 +212,7 @@ Sorcerer-jarl from up the fjord. **An operative of an older figure** — see the
 
 ### Modern Existence
 
-Goes by **"Brad."** **Sales engineer for a third-tier ISV that makes hybrid-cloud backup software** — the kind of vendor with a small booth in the back corner of every Microsoft conference and almost no actual customers. Exactly the badge nobody looks at twice. He has been at every event the crew has attended for nine years. He has nodded to Hal in coffee lines.
+Goes by **"Wes"** — full name **Wesley** on the badge, though nobody who sees the badge remembers it. **Sales engineer for a third-tier ISV that makes hybrid-cloud backup software** — the kind of vendor with a small booth in the back corner of every Microsoft conference and almost no actual customers. Exactly the badge nobody looks at twice. He has been at every event the crew has attended for nine years. He has nodded to Hal in coffee lines.
 
 **His tell:** Look directly at him and you can see him. Look away and his name slips. Try to describe him the next day and you produce a bland composite of every man at every conference.
 
@@ -222,7 +222,15 @@ Goes by **"Brad."** **Sales engineer for a third-tier ISV that makes hybrid-clou
 
 ### What He Has Become
 
-Less than human and more than a man. His face does not stay still in mirrors. He has not loved anyone in seven hundred years and has forgotten what the word means. He believes Hal's village stole his future, and he intends to take Hal's future from him in payment, twice over — once with Beth and Maya, once with Erin. **He will not get the second one. But he will come close.**
+In any conference room he is the most confident man present. Loud opinions on roadmaps. Smooth name-drops that may or may not be real. The kind of man who says *actually* a lot and believes he is the only one doing useful work in whatever conversation he is in. A mildly exhausting presence — the sort that makes people look away first, not remember him afterward. The mask fits well because he has worn it for years.
+
+**What is underneath the mask:** Less than human and more than a man. His face does not stay still in mirrors. He has not loved anyone in seven hundred years and has forgotten what the word means. He believes Hal's village stole his future, and he intends to take Hal's future from him in payment, twice over — once with Beth and Maya, once with Erin. **He will not get the second one. But he will come close.**
+
+### The Crossing
+
+Brand was caught in the outer edge of the seer's working at the moment Eirik struck him down on the strand. The working stripped names from the keepers as protection — but Brand was never one of the keepers, so it took nothing from him. He carried his name, his memory, and his vow through intact.
+
+His master — the Hungering Earth, the thing the village had died to bind — sustained him across the centuries. He did not age. He did not sleep in any sense a human would understand. He arrived in the modern world the same day he left the strand, by his own felt time: twelve hundred years passed, and to him it was a single long step through cold air. He found the conference circuit within a decade. He has been there ever since, because that is where Hal is.
 
 ### His End — Ch 23 — *with the Seed Line*
 
@@ -240,7 +248,7 @@ Hal does not register what was said in the moment. Neither does the reader. The 
 
 ### Mel Carter — Sydney
 **41. DevOps consultant, Azure MVP** (six years). *Not* a villager.
-Australian, second-generation Greek-Australian. Loud, profane, hilarious. Mother of two. **Loyalty rivals Kenny's.** Comedy duo with Kenny at every Ignite for years. **Across the series:** stays loyal across all six books. Becomes one of the council's most trusted operational minds — the one who figures out logistics in places the keepers have never been.
+Australian, second-generation Greek-Australian. Loud, profane, hilarious. Mother of two. **Loyalty rivals Callum's.** Comedy duo with Callum at every Ignite for years. **Across the series:** stays loyal across all six books. Becomes one of the council's most trusted operational minds — the one who figures out logistics in places the keepers have never been.
 
 ### Hamish Reid — Auckland
 **44. Infrastructure consultant, M365 MVP** (eight years). *Not* a villager.
@@ -268,14 +276,14 @@ The conference friend who isn't actually in the MVP world but somehow ended up i
 
 **Across the series — Marcus has a planned arc that ends in Book Four.** Because he is the *normal-life thread* the council still has, his loss is meant to land harder than any of the keeper-deaths. The arc:
 
-- **Book One:** Already in the road trip to the Hebrides, perimeter at Callanish, Kenny's funeral. **At Callanish (Ch 22), he holds the perimeter outside the circle — this is the moment he first observes what it costs to hold from outside. Seed for Book Four.**
+- **Book One:** Already in the road trip to the Hebrides, perimeter at Callanish, Callum's funeral. **At Callanish (Ch 22), he holds the perimeter outside the circle — this is the moment he first observes what it costs to hold from outside. Seed for Book Four.**
 - **Book Two (Japan):** Doesn't go. Chicago DevOps guy with a regular life. Present on the group chat. **One key scene: flies to Austin between Hal's Japan trips just to make sure Hal is eating.** That scene is the seed for everything Marcus does later.
 - **Book Three (Romania):** Goes. Mihai brings the crew home. Marcus sees keepers do something openly for the first time. Almost quits. Doesn't. The chapter where he sits in a Bucharest hotel room at 2 a.m. on the phone with his mother in Chicago, not telling her anything but needing to hear her voice, is a key chapter for him.
 - **Book Four (Hamburg):** Asks to come. Stefan tries to talk him out of it. Comes anyway. **The climactic working needs an anchor outside the circle.** If a keeper holds that position, they are trapped in the binding forever — a living death. If a non-keeper does it, they don't have the soul-stuff to survive contact with the working. They die. **Marcus volunteers because he is the only one who *can*.** Dying words, small and not a speech: ***"Tell my mom I wasn't scared."*** Sarah Wexler finds out first, in her POV chapter.
 
 The thematic point: the keepers were *born* to this. Marcus *chose* it. That is the answer to Sarah's question.
 
-After Book Four, the lifted-glass moments in every subsequent book are for both Kenny and Marcus.
+After Book Four, the lifted-glass moments in every subsequent book are for both Callum and Marcus.
 
 ---
 

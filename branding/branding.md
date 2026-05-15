@@ -289,7 +289,7 @@ Cuts slow down. Each shot 4 seconds. The texture inverts from modern to old.
 - Erin at her Zurich kitchen table, pendant in her hand, eyes red from crying.
 - A rune carved into the side of the elevator panel — held for two beats — gone on cut.
 - The fjord strand from the prologue, by daylight, empty.
-- Kenny in a pub on Lewis, mid-sentence, suddenly silent, hand on his throat.
+- Callum in a pub on Lewis, mid-sentence, suddenly silent, hand on his throat.
 - Hal at his kitchen table at 3 AM, an envelope open in front of him, hand over his mouth.
 
 Underneath: the ambient bar sound has been replaced by a low stone-resonant drone. One voiceover line: *"There is a thing under the land that should not have woken."*

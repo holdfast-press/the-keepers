@@ -22,7 +22,7 @@ A modern-world series in which a hidden council of memory-bearers — souls disp
 The bindings. The friendships. The dead. The duty. None of them are burdens you escape. They are things you accept, and in accepting them, they become how you stay alive.
 
 - Hal carries Beth and Maya, and they carry him.
-- The council carries Kenny, and Kenny carries them.
+- The council carries Callum, and Callum carries them.
 - The keepers carry their bloodlines' bindings, and the bindings carry the world.
 - Marcus carries his choice to be part of this even though he didn't have to, and his choice carries the keepers across the threshold of Book Four.
 
@@ -41,7 +41,7 @@ For our purposes:
 - **The cast rotates.** Each book centers a different keeper or pair of keepers and a different bloodline. The crew from Book One is present across the series, but they don't all show up in every book, and when they do, sometimes they lead and sometimes they support.
 - **The anchors are constant.** Hal and Erin appear in every book.
 - **Memory is the engine.** Past lives. Old verses. Dreams. Things characters did long ago that catch up to them later. A line in Book 1 returns in Book 4 with new meaning.
-- **The dead stay dead — and stay present.** Kenny is gone after Book 1. He is carried through every book that follows.
+- **The dead stay dead — and stay present.** Callum is gone after Book 1. He is carried through every book that follows.
 
 ---
 
@@ -67,7 +67,7 @@ These are the characters who appear across multiple books, with their primary ro
 
 **Tony Reyes** (villager, trader of Vikvágr). The connector. *Leads Book 5 — when the council travels to the Andes, his Spanish bridges them to the local keeper-line.* His foster children with Marco become recurring presences across the series; one of them eventually shows signs of being a keeper themselves, opening a thread we'll follow.
 
-**Mel Carter** (non-villager, Sydney). Loyalty incarnate. Stays across the series. Becomes one of the council's most trusted operational minds — the one who figures out logistics in places the keepers have never been. Comedy duo with Kenny in Book 1; comedy widow across the rest, which is its own thing.
+**Mel Carter** (non-villager, Sydney). Loyalty incarnate. Stays across the series. Becomes one of the council's most trusted operational minds — the one who figures out logistics in places the keepers have never been. Comedy duo with Callum in Book 1; comedy widow across the rest, which is its own thing.
 
 **Hamish Reid** (non-villager, Auckland). The quiet one who picks up the bar tab. Stays. His role grows slowly. By Book 4 or 5 he is the one the others trust to make decisions under fire — partly because he has nothing to prove.
 
@@ -81,7 +81,7 @@ These are the characters who appear across multiple books, with their primary ro
 
 Marcus's death is a planned beat across the series. Because he isn't a villager and isn't on the main plot's drum-beat, we have to track him visibly book-by-book so the reader is fully invested in him by the time he dies. The arc:
 
-- **Book One** — Already here. Road trip to the Hebrides. Annika tries to explain what is happening to him in the van outside Glasgow. Perimeter and support role at Callanish — he is *outside* the circle when the working completes, watching. Kenny's funeral in Edinburgh. He is established as the *normal-life thread* the council still has.
+- **Book One** — Already here. Road trip to the Hebrides. Annika tries to explain what is happening to him in the van outside Glasgow. Perimeter and support role at Callanish — he is *outside* the circle when the working completes, watching. Callum's funeral in Edinburgh. He is established as the *normal-life thread* the council still has.
 - **Book Two (Japan)** — Doesn't physically go. Chicago DevOps guy with a regular life and a job and a family. Present on the group chat. **One scene where he flies down to Austin between Hal's Japan trips just to make sure Hal is eating.** That scene is the seed for everything to come. Marcus is the friend who shows up when no one asked.
 - **Book Three (Romania)** — Goes. Mihai brings the whole crew to his country. Marcus sees keepers do something openly for the first time — not in shadow, not after the fact, but in the open. It scares him. He almost quits. He doesn't. The chapter where he sits in a Bucharest hotel room at 2 a.m. on the phone with his mother in Chicago, not telling her anything but needing to hear her voice, is a key chapter for him.
 - **Book Four (Hamburg)** — Asks to come. **Stefan tries to talk him out of it.** Comes anyway. By midpoint of the book the crew understands they need an anchor for the climactic working — someone outside the circle who can hold a position the keepers cannot. *If a keeper does it, they are trapped in the binding — locked there forever, a kind of living death. If a non-keeper does it, they don't have the soul-stuff to survive contact with the working. They die.* Marcus volunteers because he is the only one who *can.* He is the only one in the room without a bloodline.
@@ -90,20 +90,20 @@ His dying words are small. Not a speech. Something like: ***"Tell my mom I wasn'
 
 The thematic point: the keepers were *born* to this. Marcus *chose* it. And the cost only a non-keeper could pay is the cost he chooses to pay. That is the answer to Sarah Wexler's question — *who deserves to be a keeper?* — and it is the answer that breaks everyone. Sarah finds out first, in her POV chapter.
 
-After Book Four, Marcus is gone but carried. The council lifts a glass for him in every subsequent book, alongside Kenny.
+After Book Four, Marcus is gone but carried. The council lifts a glass for him in every subsequent book, alongside Callum.
 
 ---
 
-## Kenny — *The Lost One Carried Forward*
+## Callum — *The Lost One Carried Forward*
 
-Kenny dies in Book 1, Chapter 17. He does not return as a ghost, a vision, or a fakeout. He stays dead.
+Callum dies in Book 1, Chapter 17. He does not return as a ghost, a vision, or a fakeout. He stays dead.
 
 He is also present in every book that follows. Mechanisms:
 
-- **His verses.** Erin transcribed his death-chant. It becomes one of the foundational workings the council uses. Every time it is spoken, Kenny is invoked by definition.
+- **His verses.** Erin transcribed his death-chant. It becomes one of the foundational workings the council uses. Every time it is spoken, Callum is invoked by definition.
 - **His grandmother on Lewis.** She knew. She remembered enough of the old ways to recognize her grandson before he recognized himself. She is a recurring figure on the Outer Hebrides through the early-middle books, until she dies offscreen between books — a death the crew mourns at the croft.
-- **His son in the Hebrides.** Past-side, Kenny had Una and an infant son in the Hebrides who survived the working. *Modern Scotland still carries that bloodline.* One of his modern descendants becomes a recurring presence from Book 3 onward — a quiet, unassuming Scotsman who, at a certain conference in Edinburgh, looks across a hotel bar at the crew and they all see Kenny in him for a moment that nobody can talk about.
-- **The lifted glass.** Every book has at least one scene where the crew is at a hotel bar together and someone, without preamble, lifts a glass and says his name. Everyone goes quiet for a second. Then someone tells the consulting-disaster story for the fortieth time and they laugh through tears. **After Book Four, the lifted glass is for both Kenny and Marcus.**
+- **His son in the Hebrides.** Past-side, Callum had Una and an infant son in the Hebrides who survived the working. *Modern Scotland still carries that bloodline.* One of his modern descendants becomes a recurring presence from Book 3 onward — a quiet, unassuming Scotsman who, at a certain conference in Edinburgh, looks across a hotel bar at the crew and they all see Callum in him for a moment that nobody can talk about.
+- **The lifted glass.** Every book has at least one scene where the crew is at a hotel bar together and someone, without preamble, lifts a glass and says his name. Everyone goes quiet for a second. Then someone tells the consulting-disaster story for the fortieth time and they laugh through tears. **After Book Four, the lifted glass is for both Callum and Marcus.**
 
 ---
 
@@ -144,9 +144,9 @@ The same pattern repeats book-to-book. **Each book closes the immediate threat f
 **Setting:** Trøndelag (past) / Microsoft conference circuit, Reykjavik, Outer Hebrides (modern).
 **Mythology:** Norse + pre-Norse.
 **Entity:** The Hungering Earth.
-**Antagonist:** Brand Wolfsbane / "Brad."
+**Antagonist:** Brand Wolfsbane / "Wes."
 **New keeper(s) introduced:** Hal, Erin, Jan, Stefan, Annika, Tony.
-**Lost:** Kenny.
+**Lost:** Callum.
 **Closes:** The Hungering Earth re-bound. Brand unmade.
 **Plants:** Three letters on Hal's kitchen table. The seed line from Brand's final moments (see Must-Do list).
 
@@ -196,7 +196,7 @@ The point: Beth blesses Erin. Erin already knew Beth needed to. Hal gets to grie
 
 ### Book Six — *(working title: The Last Council)*
 
-**Setting:** Egypt / Sinai / the convergence. The council gathers from every previous book — the Norse keepers, the Kyoto keeper, the Romanian keeper, the smith, the Andean keepers, the Hebridean descendants of Kenny, all of them.
+**Setting:** Egypt / Sinai / the convergence. The council gathers from every previous book — the Norse keepers, the Kyoto keeper, the Romanian keeper, the smith, the Andean keepers, the Hebridean descendants of Callum, all of them.
 **Mythology:** Coptic + ancient Egyptian + older. The pattern beneath the pattern.
 **Antagonist:** **The central figure is named and faced.** The being who warned Brand. The one who has been exploiting the cosmic shift across centuries.
 **Lead:** A collective lead, in the Narnia *Last Battle* model. Hal and Erin are at the center but they are not alone. Every previous protagonist returns. Every loss returns to be carried.
@@ -249,7 +249,7 @@ These are the small specific beats across the series that the larger plot depend
 4. **Marcus's Book 4 anchor-death** — the only non-keeper in the room, the only one who can hold the position from outside the circle. *"Tell my mom I wasn't scared."* Sarah finds out first.
 5. **Hal and Erin's Book 4 wedding at Callanish** — small, quiet, with the crew.
 6. **The Beth-and-Maya vision in Book 5** — Erin tells Hal *"Look for Beth"* before he goes up. Beth blesses Erin. Maya asks the small wrecking question. Hal comes down and Erin is waiting and they don't speak for a long time.
-7. **The lifted glass scene in every book** — Kenny in Books 2-3, Kenny and Marcus in Books 5-6.
+7. **The lifted glass scene in every book** — Callum in Books 2-3, Callum and Marcus in Books 5-6.
 8. **The keepers' memory model** — past lives accessible like a second language, never overriding modern life.
 
 ---
@@ -260,7 +260,7 @@ These remain genuinely unanswered and are open for revision as we draft.
 
 - **Does Hal survive the series? Does Erin?** Book Six will earn this. Whatever falls on them, falls on them together.
 - **The final image of the series.** What does the last beat of Book Six look like? Equivalent to the letter at the end of Book One — but for a series, not a book.
-- **Kenny's modern Hebridean descendant.** Name, age, when he first appears. Likely Book 3, but his exact role across Books 3-6 is open.
+- **Callum's modern Hebridean descendant.** Name, age, when he first appears. Likely Book 3, but his exact role across Books 3-6 is open.
 - **The Old One's name and shape.** We don't need to know this until Book Five at the latest. We need to *plant* him from Book One forward (via Brand's seed line and the second/third letters) without naming him.
 - **The two non-Kyoto letters at the end of Book One.** What countries, what bloodlines? Likely Romania (which becomes Book 3) and one other. The "one other" sets up Book 4 or 5.
 
