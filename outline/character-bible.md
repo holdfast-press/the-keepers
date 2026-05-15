@@ -48,7 +48,12 @@ He never used the stuffed shark. It is in Maya's room, on her pillow. Maya's roo
 - Carries Maya's favorite hair tie in his wallet.
 - Wears his wedding ring on a chain under his shirt.
 
-**Physical:** 6'1", broad-shouldered, salt-and-pepper hair starting to silver at the temples, beard kept short. Crow's-feet from squinting at terminals and from smiling more than he does now. Old scar across his right forearm — childhood farm accident, supposedly. (Older than that.) Strong, but the kind of strong that comes from rage-running on the Town Lake trail at 5 a.m.
+**Physical:** 6'4", broad through the shoulders, with the kind of build that has nothing to do with a gym. He runs the Town Lake trail before sunrise, could chop wood all day, has the look of a man who could climb a mountain or hold his own in a physical contest without having trained for either. Conference acquaintances who don't know him well have started calling him *Hagrid* — a comparison he does not find funny and everyone else has never once stopped finding funny. His beard earns it: not unkempt, but genuinely long, full, and commanding enough that it registers before his face does. His hair is medium length, somewhere between a professional cut and neglect — dirty blond gone heavily silver, thicker at the temples, the kind of grey that started early and has been finishing the job for a decade. His eyes are blue-grey, the color of water over slate. Crow's-feet from squinting at terminals and from smiling more than he does now. Old scar across his right forearm — childhood farm accident, supposedly. (Older than that.)
+
+**Marks:** One tattoo — a geometric mark on his left shoulder blade, got it in Edinburgh in his late twenties when Callum dared him into the chair at a bar that had a tattoo parlor next door. He chose the design because it felt right and has not thought about it since. Erin will recognize it before he does.
+
+### AI Generation Reference — Hal
+Tall man, 6'4", large natural frame with physical authority that has nothing to do with a gym — broad-shouldered, thick-chested, built like a man who chops wood and climbs things. Long beard, full and well-groomed but genuinely long, the kind people notice immediately. Hair dirty blond heavily silvered, medium length, slightly unkempt at the collar. Blue-grey eyes, deep-set, prominent crow's-feet at the corners. Age 43, Scandinavian-American heritage. Typical conference appearance: dark jeans, blue or grey button-down or henley, wedding ring on a chain barely visible at the open collar. Conference badge on a navy ribbon. Old scar on right forearm. Rugged, intelligent face — large but not aggressive, the look of a man who listens more than he speaks. Resembles a larger, silver-bearded Nordic man in his early forties.
 
 **Voice & personality:** Dry, observational, surprisingly warm when he opens up. Listens more than he talks. Funny in a deadpan way. People trust him within five minutes.
 
@@ -114,7 +119,12 @@ Apprentice to the village *völva*. 18 winters at the working. Promised to Halva
 
 **Personality:** Dry as a bone. Patient. Unflappable. The steady center of the friend group.
 
-**Physical:** 6'3", lean, weather-faced. Hands that have worked wood for thirty years. The same brand of flannel shirt in seven colors. A beard slowly going Viking on him.
+**Physical:** 6'3", lean in the way of men who use their bodies for actual work — ropey forearms, a slight permanent stoop from decades spent over workbenches. Hair dark brown going grey, cut short enough to not require managing. The beard was once tidy; it is no longer entirely tidy; it has been making independent decisions for about three years and nobody has intervened. Eyes a deep grey-blue, almost colorless in flat Nordic light. Hands scarred and calloused, more expressive than the rest of him — they know how to do things his mind has never formally been taught. The same brand of dark flannel shirt in seven colors. Tonight: forest green.
+
+**Marks:** One mark on the inside of his right wrist — a small, clean geometric piece he got in his late twenties without being able to explain exactly why he chose it. He described it to Kristine as "something a guy at a festival was doing." This is true and also completely inadequate. Erin recognizes it in Chapter 12.
+
+### AI Generation Reference — Jan
+Tall Norwegian man, 6'3", lean and slightly stooped — not frail, but the permanent lean of a craftsman. Dark brown hair going grey, cut short. A beard that has grown past the point where it was clearly intentional and is now clearly Viking territory. Deep grey-blue eyes, almost colorless. Heavily calloused and scarred hands. Age 47. Weather-worn face, deeper lines than his age strictly requires. Typical appearance: dark flannel shirt, work trousers or dark jeans, boots. Conference badge slightly at odds with his general appearance, like a name tag on a blacksmith. A small geometric mark on the inside of his right wrist.
 
 **Tells:**
 - His hands know how to do things his mind has never been taught.
@@ -145,7 +155,12 @@ The boat in his garage becomes a literal vessel the council uses in later books.
 
 **Personality:** The heart of the friend group. Loud, profane, generous. Drinks too much. Sings karaoke without irony. Plays guitar — actually well. Secretly writes poetry he has never shown anyone. Cries at movies. Will fight a man for any of his friends without thinking twice.
 
-**Physical:** 5'10", barrel-chested, ginger going strawberry-blond, full beard. Tattoos he's collected over the years — a few of them, when he sees them in mirrors during the story, will have been runes all along.
+**Physical:** 5'8", lean — built more like someone who should be working in a library than someone who has won bar fights on behalf of strangers. He doesn't carry the Scandinavian height or mass the others do. His hair is ginger going strawberry-blond, cut short on the sides with more of it on top — the kind of cut that implies someone thought about it once and has been neglecting it ever since. Blue-grey eyes, pale complexion, freckles across the nose and cheekbones and forearms. Mostly clean-shaven, or carrying a few days of ginger-blond stubble that arrived by accident. He can grow a beard — a real one, if left alone — but he doesn't keep one. This surprises people who expected Callum to be the one with the full Viking beard. He isn't. Hal is.
+
+**Marks:** More tattooed than anyone else in the crew. Has been collecting them for fifteen years — a sleeve-in-progress on his right arm, two pieces on his left forearm, one on his ribs, one on the back of his neck just below the hairline. He got each one because it *felt right.* He describes the designs as geometric, as patterns, as things he just liked. When Erin first sees his forearms, she goes very quiet. He asks what's wrong. She says nothing. The runes on his arms are workings — real ones, functional ones. He has been tattooing himself with things he should not know.
+
+### AI Generation Reference — Callum
+Lean Scottish man, 5'8", slight build — looks younger than 39, the kind of wiry frame that surprises people. Ginger hair going strawberry-blond, short on the sides and slightly longer and disheveled on top. Blue-grey eyes, pale skin, visible freckles across the nose and cheeks. Usually clean-shaven or with a few days of reddish-blond scruff. Visible tattoos on both forearms and right arm — geometric/runic patterns, sleeve-in-progress on the right, two smaller pieces on the left. Age 39. Typical appearance: flannel shirts, dark jeans, beaten-up boots, conference badge. Expression defaults to warmth and mischief — the face of a man about to say something funny or who already did. Not imposing physically but takes up space through presence and volume.
 
 **Tells:**
 - The song he hums when he's drunk is in a language he insists he doesn't speak. Erin recognizes it before he does.
@@ -179,7 +194,12 @@ Dies in Chapter 17. Verses on his lips. Erin transcribes the chant; in Chapter 2
 
 **Personality:** Engineer's engineer. Allergic to vague language. Believes in things he can measure. Refuses to believe in anything he can't.
 
-**Physical:** Tall, broad, going slightly soft. Shaves his head. Square hands. Always carries a small Leatherman in his pocket.
+**Physical:** 6'2", broad through the chest and shoulders — the build of a man who was once purely functional muscle and has softened slightly at the edges in his late forties without losing its authority. He shaves his head close, daily, by preference — not circumstance. A square jaw. Brown eyes, patient to the point of appearing impassive until something actually lands. German complexion, weathered from years in his grandfather's outdoor workshop before he pivoted to IT. Square hands with burn scars he got at fifteen and hasn't thought about since. Always carries a small Leatherman in his right front pocket, which has saved the lives of at least seven conference setups.
+
+**Marks:** No tattoos. Stefan does not do things he cannot explain, and he has never been able to explain why he would want to mark his skin permanently. This is ironic, because the marks on him are already in his hands. He can forge a rune-stone with no instruction. The shapes come out correct. He does not know yet that this is a kind of writing.
+
+### AI Generation Reference — Stefan
+Broad German man, 6'2", shaved head, square jaw. Brown eyes, calm expression that defaults to patient and can look impassive. Late forties, solid build going slightly soft at the edges. Weathered skin, burn scars on both hands. Square, calloused hands. Age 49. Typical appearance: dark work shirt or button-down, no tie, trousers. Conference badge slightly too small for the frame. Carries a Leatherman. No tattoos. Looks like the kind of man who could fix anything mechanical and has opinions about how it should be done.
 
 **Tells:**
 - The only person in the inner circle who has never had the dream.
@@ -273,6 +293,13 @@ Sharp, ambitious, the youngest in the inner circle. Got pulled in three years ag
 ### Marcus Chen — Chicago
 **42. DevOps lead. Not an MVP.** *Not* a villager.
 The conference friend who isn't actually in the MVP world but somehow ended up in their orbit. Met Tony at MMS MOA seven years ago. Important social glue — the reminder that not everyone in this story is some ancient soul.
+
+**Physical:** 5'10", medium build — the kind of man who exists most naturally in a conference polo and khakis and looks faintly out of place in anything more formal or more casual. Chinese-American, second generation (parents from Chengdu, raised in Bridgeport, Chicago). Black hair cut practically short, a few grey strands appearing at 42 that he has not registered yet. Brown eyes, warm and attentive — the kind that make people feel heard. A face that reads younger than 42, which is occasionally useful and occasionally annoying. Unremarkable in the way that only genuinely kind people are unremarkable: nothing about his appearance demands attention, but once he's in the room you notice when he leaves.
+
+**Marks:** No runes. No marks that don't belong. No dreams he can't explain, no fragments of a language surfacing at odd hours, no design that felt right for reasons he couldn't name. This is the point of Marcus. He is exactly who he says he is. He chose this family without being pulled by anything older than friendship. What happens in Book Four means what it means *because* of this.
+
+### AI Generation Reference — Marcus
+Chinese-American man, 5'10", medium build, age 42. Black hair cut short and practical, a few grey strands. Warm brown eyes, pleasant face, looks slightly younger than his age. Neither athletic nor unfit — conference-worker build. Typical appearance: polo shirt or button-down, dark chinos or jeans, clean sneakers or loafers. No distinctive marks or tattoos. A face that is easy to trust and slightly easy to underestimate. The kind of person who is genuinely paying attention to whatever you're saying.
 
 **Across the series — Marcus has a planned arc that ends in Book Four.** Because he is the *normal-life thread* the council still has, his loss is meant to land harder than any of the keeper-deaths. The arc:
 
